@@ -25,7 +25,7 @@ Este proyecto requiere Python 3.8 o superior, junto con las siguientes bibliotec
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+   git clone https://github.com/SrAlcast/7.2.Feature_Scaling.git
    ```
 2. Instala las dependencias.
 
