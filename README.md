@@ -7,8 +7,8 @@ Este laboratorio se centra en el escalado de características, un proceso crucia
 
 ```
 ├── data/                # Datos crudos y procesados
-├── notebooks/           # Notebooks de Jupyter con el análisis de escalado
 ├── src/                 # Scripts para aplicar escalado en Python
+├── notebook             # Notebook de Jupyter con el análisis de escalado
 ├── results/             # Resultados del análisis
 ├── README.md            # Descripción del proyecto
 ```
